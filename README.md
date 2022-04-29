@@ -10,3 +10,10 @@ Note: By accessing this repository and the corresponding files, you agree to a n
 🎯 This challenge consists of building an efficient data workflow out of large-scale datasets to produce a real-time, interactive dashboard that provides data visualizations and allows the extraction of valuable insights. To achieve so, large, anonymized relational database datasets from the Jordanian Ministry of Education will be provided as input.
 
 ⛑ To create the data workflow, participants should be familiar with techniques such as data sampling, multidimensional statistical analysis, AI modelling, or emerging open-source technologies such as data lakes and flat columnar storage format.
+
+
+# How to use this GitHub repository ? 
+
+If you have never used github repository you can download the content of this repository by clicking on the button **Code** and then **download zip**. If you want you can start to use github by forking this project as a base for your project and share your work on Github. 
+
+![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
